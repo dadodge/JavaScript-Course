@@ -1,4 +1,4 @@
 # JavaScript-Course
 jonasschmedtmann/complete-javascript-course
 Don Dodge
-I am creating a branch comment to see how it works
+I am creating a branch comment to see how it works and it seems rediculously hard.
